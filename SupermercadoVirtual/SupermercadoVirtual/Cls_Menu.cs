@@ -50,7 +50,6 @@ namespace SupermercadoVirtual
                 {
                     Console.WriteLine("Ingrese una opcion valida...");
                 }
-
             }
 
             Console.WriteLine("Se salio del sistema");
